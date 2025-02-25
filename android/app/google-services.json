@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136569334195",
+    "project_id": "icmr-backend",
+    "storage_bucket": "icmr-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136569334195:android:258139078ba4343e2b03c6",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCZCiwPCQbXPsoLqBY1TmeSVQvJIQS9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
