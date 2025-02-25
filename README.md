@@ -4,10 +4,10 @@ A digitized version of the verbal learning tests present in the ICMR Neuro-Cogni
 
 ## Instructions for installation and running the code 
 
-1 - Install flutter from [here](https://docs.flutter.dev/get-started/install).
-2 - Clone the project and navigate to /src
-3 - Run flutter pub get to fetch the needed packages.
-4 - Run the app using flutter run.
+1. Install flutter from [here](https://docs.flutter.dev/get-started/install).
+2. Clone the project and navigate to /src
+3. Run flutter pub get to fetch the needed packages.
+4. Run the app using flutter run.
 
 ## About data storage
 
